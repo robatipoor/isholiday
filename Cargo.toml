@@ -1,0 +1,13 @@
+[package]
+name = "isholiday"
+version = "0.1.0"
+authors = ["robatioor <mahdi.robatipoor@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.6"
+serde = "1.0.84"
+serde_json = "1.0.34"
+serde_derive = "1.0.84"
+colored = "1.7.0"
+
